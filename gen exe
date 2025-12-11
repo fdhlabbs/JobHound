@@ -1,0 +1,7 @@
+pyinstaller `
+  --onefile `
+  --windowed `
+  --name JobHound `
+  --icon icon.ico `
+  --add-data "gmail_oauth_client.json;." `
+  main.py

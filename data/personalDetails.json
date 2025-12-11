@@ -1,0 +1,43 @@
+{
+  "name": "qwe",
+  "email": "qwe@qwe",
+  "linkedinId": "qwe",
+  "githubAcc": "qwe",
+  "phone": "012-123456789, for int +60",
+  "address": "qwe\nqwe",
+  "about": "qwe\nqwe",
+  "education": [
+    {
+      "education": "qwe",
+      "almamater": "qwe",
+      "description": "qwe"
+    },
+    {
+      "education": "asd",
+      "almamater": "asd",
+      "description": "sad"
+    }
+  ],
+  "work": [
+    {
+      "position": "wqe",
+      "company": "qwe",
+      "description": "qwe"
+    },
+    {
+      "position": "asd",
+      "company": "asd",
+      "description": "asd"
+    }
+  ],
+  "skills": [
+    {
+      "skill": "qwe",
+      "description": "wqe"
+    },
+    {
+      "skill": "asd",
+      "description": "asd"
+    }
+  ]
+}
